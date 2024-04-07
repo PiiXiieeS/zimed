@@ -2,7 +2,7 @@
   "name": "zimed",
   "version": "1.0.0",
   "description": "Zimed - Vue Nuxt App Landing Page Template",
-  "author": "Layerdrops",
+  "author": "Jose Gascon",
   "private": true,
   "scripts": {
     "dev": "nuxt",
